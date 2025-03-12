@@ -1,0 +1,38 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title> Lista da Melissa </title>
+	</head>
+	<body>
+		<h1> Lista dos alunos do 3°01 IPI </h1>
+		<ol>
+			<li>Kauã</li>
+			<li>thiago</li>
+			<li>romanna</li>
+			<li>enzo</li>
+			<li>luciano</li>
+			<li>isaac</li>
+			<li>Luckyan</li>
+			<li>angelina</li>
+			<li>karim</li>
+			<li>Emanuelly/li>
+			<li>marcos</li>
+			<li>kainã</li>
+			<li>vitória</li>
+			<li>jhenifer</li>
+			<li>milena</li>
+			<li>emanoel</li>
+		</ol>
+		<h2> Lista de formas geometricas </h2>
+		<ul>
+			<li>quadrado</li>
+			<li>círculo</li>
+			<li>triângulo</li>
+			<li>pentágono</li>
+			<li>retângulo</li>
+			<li>bananilson farofa</li>
+		</ul>
+		<h3> Foto </h3>
+		<img src =
+	</body>
+</html>
